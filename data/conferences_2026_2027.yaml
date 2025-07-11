@@ -1,0 +1,528 @@
+# ML Conferences Timeline: August 2026 - July 2027
+# Dates are estimates based on historical patterns from previous years
+
+conferences:
+  # === AUGUST 2026 ===
+  - name: "Knowledge Discovery and Data Mining"
+    acronym: "KDD"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://kdd.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-02-05"
+        notification: "2026-05-15"
+        camera_ready: "2026-06-15"
+      workshop_short_paper:
+        submission_deadline: "2026-05-20"
+        notification: "2026-06-20"
+        camera_ready: "2026-07-10"
+      conference_dates:
+        start: "2026-08-16"
+        end: "2026-08-20"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://kdd2025.kdd.org/calls/view/kdd-2025-call-for-research-track-papers"
+      - year: 2024
+        url: "https://kdd2024.kdd.org/calls/"
+    notes: "Typically held in mid-August, multiple tracks including research and applied data science"
+
+  - name: "International Joint Conference on Artificial Intelligence"
+    acronym: "IJCAI"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://ijcai.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-01-20"
+        notification: "2026-04-20"
+        camera_ready: "2026-05-20"
+      workshop_short_paper:
+        submission_deadline: "2026-04-15"
+        notification: "2026-05-15"
+        camera_ready: "2026-06-15"
+      conference_dates:
+        start: "2026-08-21"
+        end: "2026-08-27"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://ijcai25.org/call-for-papers/"
+      - year: 2024
+        url: "https://ijcai24.org/"
+    notes: "One of the oldest AI conferences, covers broad AI topics"
+
+  # === SEPTEMBER 2026 ===
+  - name: "European Conference on Computer Vision"
+    acronym: "ECCV"
+    category: "tier1"
+    frequency: "biannual"
+    website: "https://eccv.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-03-10"
+        notification: "2026-07-03"
+        camera_ready: "2026-07-25"
+      workshop_short_paper:
+        submission_deadline: "2026-07-15"
+        notification: "2026-08-10"
+        camera_ready: "2026-08-25"
+      conference_dates:
+        start: "2026-09-27"
+        end: "2026-10-02"
+    location:
+      city: "TBD"
+      country: "Europe"
+    sources:
+      - year: 2024
+        url: "https://eccv.ecva.net/Conferences/2024/Submission"
+      - year: 2022
+        url: "https://eccv2022.ecva.net/"
+    notes: "Held every even year, alternates with ACCV"
+
+  - name: "Conference on Empirical Methods in Natural Language Processing"
+    acronym: "EMNLP"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://emnlp.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-05-15"
+        notification: "2026-08-15"
+        camera_ready: "2026-09-15"
+      workshop_short_paper:
+        submission_deadline: "2026-07-15"
+        notification: "2026-08-25"
+        camera_ready: "2026-09-10"
+      conference_dates:
+        start: "2026-09-07"
+        end: "2026-09-11"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://2025.emnlp.org/"
+      - year: 2024
+        url: "https://2024.emnlp.org/calls/main_conference_papers/"
+    notes: "Major NLP conference, often has findings track"
+
+  # === OCTOBER 2026 ===
+  - name: "ACM Multimedia"
+    acronym: "ACM MM"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://www.acmmm.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-04-20"
+        notification: "2026-07-05"
+        camera_ready: "2026-08-10"
+      workshop_short_paper:
+        submission_deadline: "2026-07-01"
+        notification: "2026-08-01"
+        camera_ready: "2026-08-25"
+      conference_dates:
+        start: "2026-10-12"
+        end: "2026-10-16"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://2025.acmmm.org/"
+      - year: 2024
+        url: "https://2024.acmmm.org/calls/"
+    notes: "Premier multimedia conference, covers ML for multimedia"
+
+  # === NOVEMBER 2026 ===
+  - name: "Conference on Computer and Communications Security"
+    acronym: "CCS"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://www.sigsac.org/ccs.html"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-05-15"
+        notification: "2026-08-07"
+        camera_ready: "2026-09-15"
+      workshop_short_paper:
+        submission_deadline: "2026-07-15"
+        notification: "2026-08-25"
+        camera_ready: "2026-09-20"
+      conference_dates:
+        start: "2026-11-09"
+        end: "2026-11-13"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://www.sigsac.org/ccs/CCS2025/"
+      - year: 2024
+        url: "https://www.sigsac.org/ccs/CCS2024/"
+    notes: "Includes ML security and privacy tracks"
+
+  # === DECEMBER 2026 ===
+  - name: "Neural Information Processing Systems"
+    acronym: "NeurIPS"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://neurips.cc"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-05-23"
+        notification: "2026-09-21"
+        camera_ready: "2026-10-30"
+      workshop_short_paper:
+        submission_deadline: "2026-09-10"
+        notification: "2026-10-15"
+        camera_ready: "2026-11-15"
+      conference_dates:
+        start: "2026-12-06"
+        end: "2026-12-12"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://neurips.cc/Conferences/2025"
+      - year: 2024
+        url: "https://neurips.cc/Conferences/2024/CallForPapers"
+    notes: "Largest ML conference, includes main track, workshops, and tutorials"
+
+  - name: "International Conference on Data Mining"
+    acronym: "ICDM"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://www.icdm.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-06-10"
+        notification: "2026-09-01"
+        camera_ready: "2026-10-01"
+      workshop_short_paper:
+        submission_deadline: "2026-08-15"
+        notification: "2026-09-20"
+        camera_ready: "2026-10-15"
+      conference_dates:
+        start: "2026-12-07"
+        end: "2026-12-10"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2024
+        url: "https://icdm2024.org/"
+      - year: 2023
+        url: "https://www.cloud-conf.net/icdm2023/"
+    notes: "Focus on data mining algorithms and applications"
+
+  # === JANUARY 2027 ===
+  - name: "AAAI Conference on Artificial Intelligence"
+    acronym: "AAAI"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://aaai.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-08-15"
+        notification: "2026-11-10"
+        camera_ready: "2026-12-05"
+      workshop_short_paper:
+        submission_deadline: "2026-11-01"
+        notification: "2026-12-01"
+        camera_ready: "2026-12-20"
+      conference_dates:
+        start: "2027-01-25"
+        end: "2027-01-29"
+    location:
+      city: "TBD"
+      country: "USA"
+    sources:
+      - year: 2025
+        url: "https://aaai.org/conference/aaai/aaai-25/"
+      - year: 2024
+        url: "https://aaai.org/conference/aaai/aaai-24/"
+    notes: "Broad AI conference, typically held in late January/early February"
+
+  # === FEBRUARY 2027 ===
+  - name: "Web Search and Data Mining"
+    acronym: "WSDM"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://www.wsdm-conference.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-08-08"
+        notification: "2026-10-20"
+        camera_ready: "2026-11-20"
+      workshop_short_paper:
+        submission_deadline: "2026-11-15"
+        notification: "2026-12-15"
+        camera_ready: "2027-01-10"
+      conference_dates:
+        start: "2027-02-08"
+        end: "2027-02-12"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://www.wsdm-conference.org/2025/"
+      - year: 2024
+        url: "https://www.wsdm-conference.org/2024/"
+    notes: "Focus on web search and data mining"
+
+  # === MARCH 2027 ===
+  - name: "International Conference on Autonomous Agents and Multi-Agent Systems"
+    acronym: "AAMAS"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://aamas.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-10-15"
+        notification: "2027-01-15"
+        camera_ready: "2027-02-15"
+      workshop_short_paper:
+        submission_deadline: "2027-01-20"
+        notification: "2027-02-20"
+        camera_ready: "2027-03-01"
+      conference_dates:
+        start: "2027-03-15"
+        end: "2027-03-19"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://aamas2025.org/"
+      - year: 2024
+        url: "https://www.aamas2024-conference.auckland.ac.nz/"
+    notes: "Multi-agent systems and autonomous agents"
+
+  # === APRIL 2027 ===
+  - name: "The Web Conference"
+    acronym: "WWW"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://thewebconf.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-10-15"
+        notification: "2027-01-20"
+        camera_ready: "2027-02-20"
+      workshop_short_paper:
+        submission_deadline: "2027-01-15"
+        notification: "2027-02-15"
+        camera_ready: "2027-03-15"
+      conference_dates:
+        start: "2027-04-19"
+        end: "2027-04-23"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://www2025.thewebconf.org/"
+      - year: 2024
+        url: "https://www2024.thewebconf.org/"
+    notes: "Web technologies, includes ML for web applications"
+
+  # === MAY 2027 ===
+  - name: "International Conference on Learning Representations"
+    acronym: "ICLR"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://iclr.cc"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-09-28"
+        notification: "2027-01-21"
+        camera_ready: "2027-03-15"
+      workshop_short_paper:
+        submission_deadline: "2027-02-15"
+        notification: "2027-03-15"
+        camera_ready: "2027-04-15"
+      conference_dates:
+        start: "2027-05-03"
+        end: "2027-05-07"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://iclr.cc/Conferences/2025"
+      - year: 2024
+        url: "https://iclr.cc/Conferences/2024"
+    notes: "Deep learning focused, uses OpenReview for submissions"
+
+  - name: "International Conference on Robotics and Automation"
+    acronym: "ICRA"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-09-15"
+        notification: "2027-01-31"
+        camera_ready: "2027-03-01"
+      workshop_short_paper:
+        submission_deadline: "2027-02-01"
+        notification: "2027-03-15"
+        camera_ready: "2027-04-15"
+      conference_dates:
+        start: "2027-05-24"
+        end: "2027-05-28"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://2025.ieee-icra.org/"
+      - year: 2024
+        url: "https://2024.ieee-icra.org/"
+    notes: "Robotics with significant ML component"
+
+  # === JUNE 2027 ===
+  - name: "Computer Vision and Pattern Recognition"
+    acronym: "CVPR"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://cvpr.thecvf.com"
+    timeline:
+      full_paper:
+        submission_deadline: "2026-11-11"
+        notification: "2027-02-28"
+        camera_ready: "2027-04-01"
+      workshop_short_paper:
+        submission_deadline: "2027-03-15"
+        notification: "2027-04-15"
+        camera_ready: "2027-05-15"
+      conference_dates:
+        start: "2027-06-14"
+        end: "2027-06-19"
+    location:
+      city: "TBD"
+      country: "USA"
+    sources:
+      - year: 2025
+        url: "https://cvpr.thecvf.com/Conferences/2025"
+      - year: 2024
+        url: "https://cvpr.thecvf.com/Conferences/2024"
+    notes: "Largest computer vision conference"
+
+  - name: "International Conference on Machine Learning"
+    acronym: "ICML"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://icml.cc"
+    timeline:
+      full_paper:
+        submission_deadline: "2027-01-28"
+        notification: "2027-04-25"
+        camera_ready: "2027-05-30"
+      workshop_short_paper:
+        submission_deadline: "2027-04-20"
+        notification: "2027-05-20"
+        camera_ready: "2027-06-15"
+      conference_dates:
+        start: "2027-06-21"
+        end: "2027-06-27"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://icml.cc/Conferences/2025"
+      - year: 2024
+        url: "https://icml.cc/Conferences/2024"
+    notes: "One of the top ML conferences, typically late June"
+
+  - name: "Annual Meeting of the Association for Computational Linguistics"
+    acronym: "ACL"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://aclweb.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2027-02-15"
+        notification: "2027-05-05"
+        camera_ready: "2027-06-01"
+      workshop_short_paper:
+        submission_deadline: "2027-04-15"
+        notification: "2027-05-15"
+        camera_ready: "2027-06-10"
+      conference_dates:
+        start: "2027-06-27"
+        end: "2027-07-02"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://2025.aclweb.org/"
+      - year: 2024
+        url: "https://2024.aclweb.org/"
+    notes: "Premier NLP conference"
+
+  # === JULY 2027 ===
+  - name: "International Joint Conference on Neural Networks"
+    acronym: "IJCNN"
+    category: "tier2"
+    frequency: "annual"
+    website: "https://www.ijcnn.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2027-01-15"
+        notification: "2027-03-31"
+        camera_ready: "2027-05-01"
+      workshop_short_paper:
+        submission_deadline: "2027-03-01"
+        notification: "2027-04-15"
+        camera_ready: "2027-05-15"
+      conference_dates:
+        start: "2027-07-18"
+        end: "2027-07-23"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://2025.ijcnn.org/"
+      - year: 2024
+        url: "https://2024.ijcnn.org/"
+    notes: "Neural networks focused conference"
+
+  - name: "Conference on Uncertainty in Artificial Intelligence"
+    acronym: "UAI"
+    category: "tier1"
+    frequency: "annual"
+    website: "https://www.auai.org"
+    timeline:
+      full_paper:
+        submission_deadline: "2027-02-19"
+        notification: "2027-05-10"
+        camera_ready: "2027-06-10"
+      workshop_short_paper:
+        submission_deadline: "2027-05-01"
+        notification: "2027-06-01"
+        camera_ready: "2027-06-25"
+      conference_dates:
+        start: "2027-07-27"
+        end: "2027-07-30"
+    location:
+      city: "TBD"
+      country: "TBD"
+    sources:
+      - year: 2025
+        url: "https://www.auai.org/uai2025/"
+      - year: 2024
+        url: "https://www.auai.org/uai2024/"
+    notes: "Probabilistic reasoning and uncertainty in AI"

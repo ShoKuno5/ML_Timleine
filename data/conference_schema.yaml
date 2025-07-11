@@ -1,0 +1,43 @@
+# ML Conference Timeline Schema
+# Each conference entry should follow this structure
+
+conference_template:
+  name: "Conference Full Name"
+  acronym: "CONF"
+  category: "tier1|tier2|workshop"  # Conference tier/type
+  frequency: "annual|biannual"
+  
+  # Official conference website
+  website: "https://conference-website.org"
+  
+  # Typical timeline (dates are estimates based on previous years)
+  timeline:
+    full_paper:
+      submission_deadline: "YYYY-MM-DD"
+      notification: "YYYY-MM-DD"
+      camera_ready: "YYYY-MM-DD"
+    
+    workshop_short_paper:
+      submission_deadline: "YYYY-MM-DD"
+      notification: "YYYY-MM-DD"
+      camera_ready: "YYYY-MM-DD"
+    
+    conference_dates:
+      start: "YYYY-MM-DD"
+      end: "YYYY-MM-DD"
+  
+  # Location (if known from previous years)
+  location:
+    city: "City Name"
+    country: "Country"
+    venue: "Venue Name (optional)"
+  
+  # Historical data sources
+  sources:
+    - year: 2025
+      url: "https://conference2025.org/timeline"
+    - year: 2024
+      url: "https://conference2024.org/timeline"
+  
+  # Additional notes
+  notes: "Any special information about submission tracks, formats, etc."
